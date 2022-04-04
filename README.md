@@ -20,7 +20,7 @@ The ML model is also applicable for the calculation of HOMO-LUMO energy levels a
 
 # Requirments and Dependencies:
 
-PySACs needs the following pakages:
+PyEfield needs the following pakages:
 
 1-[pickle](https://scikit-learn.org/stable/install.html)
 
