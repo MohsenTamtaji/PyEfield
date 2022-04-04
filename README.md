@@ -34,10 +34,10 @@ PyEfield needs the following pakages:
 
 Note: There is not "pip install" of this version yet, so you need to download the ML algorithm and run the program as follows:
 
-1- Download the **TNNEfield2.pickle**, **Roriginal.pkl**, and **Eoriginal.pkl** files into your directory
+1- Download the **TNNEfield2.pickle** files into your directory
 
 
-2- Download the **TNNEfield4.py** and put into your directory, open in your PyCharm, Spider, or other Python environments, change the directory (**Location**) and filename in the **TNNEfield4.py** file and run the code. The program will plot the electric filed for gold-silica core-shell nanoparticles.
+2- Download the **PyEfield.py** and put into your directory, open in your PyCharm, Spider, or other Python environments, define the dimention and shape in the **PyEfield.py** file and run the code. The program will plot the electric filed for gold-silica core-shell nanoparticles.
 
 3- Enjoy :)
 
