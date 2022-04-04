@@ -14,7 +14,7 @@ The ML model is also applicable for the calculation of HOMO-LUMO energy levels a
 
 ************************************************************
 
-![SAC](https://github.com/MohsenTamtaji/PySACs/blob/09c3272990b3c9772fadb94f36cd25eefc11d0b5/Figure8%20-%20Copy%20(2).png)
+![SAC](si-auR63D.png)
 
 ************************************************************
 
