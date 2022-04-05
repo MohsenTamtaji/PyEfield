@@ -22,7 +22,7 @@ The ML model is also applicable for the calculation of HOMO-LUMO energy levels a
 
 PyEfield needs the following pakages:
 
-1-[pickle](https://scikit-learn.org/stable/install.html)
+1- [pickle](https://scikit-learn.org/stable/install.html)
 
 2- [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 
