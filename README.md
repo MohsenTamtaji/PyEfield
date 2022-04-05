@@ -47,9 +47,9 @@ In order to calculate the HOMO-LUMO energy levels and jablonski diagram for MB, 
 
 2- Open **PyTDDFT.py** in your PyCharm, Spider, or other Python environments, define **E** and the name of photosensitizer, and run the code. The program will print the HOMO, LUMO energies. It alos calculate T1, S1, and ISC energies. Please see the following picture:
 
-![Jablonski]()
+![Jablonski](MLTDDFT - Copy/Jablonskidiagram.png)
 
-Please note that MB stands for Methylene Blue, RB, stands for Rose Bengal, and TPP stands for Tetraphenylporphyrine. 
+Please note that **MB** stands for Methylene Blue, **RB**, stands for Rose Bengal, and **TPP** stands for Tetraphenylporphyrine. 
 
 ************************************************************
 
