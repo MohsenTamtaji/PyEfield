@@ -28,6 +28,9 @@ PyEfield needs the following pakages:
 
 3- [numpy](https://numpy.org/install/)
 
+4- [rdkit](https://www.rdkit.org/docs/Install.html)
+
+
 ************************************************************
 
 # Running PyEfield:
@@ -39,8 +42,10 @@ Note: There is not "pip install" of this version yet, so you need to download th
 
 2- Download the **PyEfield.py** and put into your directory, open in your PyCharm, Spider, or other Python environments, define the dimention and shape in the **PyEfield.py** file and run the code. The program will plot the electric filed for gold-silica core-shell nanoparticles.
 
+
 3- Enjoy :)
 
+*****************************************************
 In order to calculate the HOMO-LUMO energy levels and jablonski diagram for MB, RB, or TPP photosensitizers in the presence of E (eV):
 
 1- Clone the MLTDDFT-Copy file
@@ -52,6 +57,9 @@ The program will print the HOMO, LUMO energies. It alos calculates T1, S1, and I
 
 ![Jablonski](https://github.com/MohsenTamtaji/PyEfield/blob/d70a63fa24d96096cd0265c54a409b34380d5673/MLTDDFT%20-%20Copy/Jablonskidiagram.png)
 
+
+
+3- Enjoy :)
 
 ************************************************************
 
