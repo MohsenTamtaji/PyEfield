@@ -55,7 +55,7 @@ In order to calculate the HOMO-LUMO energy levels and jablonski diagram for MB, 
 
 The program will print the HOMO, LUMO energies. It alos calculates T1, S1, and ISC energies. Please see the following picture:
 
-![Jablonski](https://github.com/MohsenTamtaji/PyEfield/blob/cf08f906764c9f718d24e01074cdfe7ca830056b/MLTDDFT%20-%20Copy/Jablonskidiagram.png)
+![Jablonski](https://github.com/MohsenTamtaji/PyEfield/blob/380ec7bf353f8f6db75d95336091d06f9650a583/MLTDDFT/Jablonski1.png)
 
 
 
