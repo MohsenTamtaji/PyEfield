@@ -46,13 +46,11 @@ Note: There is not "pip install" of this version yet, so you need to download th
 3- Enjoy :)
 
 *****************************************************
-In order to calculate the HOMO-LUMO energy levels and jablonski diagram for MB, RB, or TPP photosensitizers in the presence of E (eV):
+In order to calculate the HOMO-LUMO energy levels and Jablonski diagram for methylene blue photosensitizers in the presence of E (V/Å):
 
 1- Clone the MLTDDFT file
 
-2- Open **PyTDDFTMB.py** in your PyCharm, Spider, or other Python environments, define the location of your files and also **E** in Volt/Angstrom (V/Å). The range of **E** is in +- 0.271 V/Å.
-
-
+2- Open **PyTDDFTMB.py** in your PyCharm, Spider, or other Python environments, define the location of your files and also **E** in Volt/Angstrom (V/Å). The range of **E** is in +- 0.271 V/Å. 
 The program will print the HOMO, LUMO energies. It alos calculates S1, S2, T1, T2, T3, T4, T5, and ISC energies. Please see the following picture:
 
 ![Jablonski](https://github.com/MohsenTamtaji/PyEfield/blob/380ec7bf353f8f6db75d95336091d06f9650a583/MLTDDFT/Jablonski1.png)
