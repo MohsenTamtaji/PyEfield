@@ -57,6 +57,8 @@ The program will print the HOMO, LUMO energies. It alos calculates S1, S2, T1, T
 
 3- Enjoy :)
 
+*Note: The PyTDDFTMB.py program is trained based on TD-DFT-D3 calculations using Gaussian 09 software, which can be used to calculate the excited energies of methylene blue in the presence of electric field.
+
 ************************************************************
 
 # Citation:
