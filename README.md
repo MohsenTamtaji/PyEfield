@@ -10,7 +10,7 @@ The developed ML algorithm can be used for the prediction of electric field arou
 
 Deep neural networks (DNN) is trained based on FDTD-calculated data.
 
-The ML model is also applicable for the calculation of HOMO-LUMO energy levels and Jablonski diagram of several photosensitizers(MB, TPP, and RB) in the presence of electric field. The data are from TD-DFT calculations using Gaussian 09. 
+The ML model is also applicable for the calculation of HOMO-LUMO energy levels and Jablonski diagram of methyene blue in the presence of electric field. The data are from TD-DFT calculations using Gaussian 09. 
 
 ************************************************************
 
