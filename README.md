@@ -16,6 +16,7 @@ The ML model is also applicable for the calculation of HOMO-LUMO energy levels a
 
 ![SAC](si-auR63D.png)
 
+
 ************************************************************
 
 # Requirments and Dependencies:
@@ -27,9 +28,6 @@ PyEfield needs the following pakages:
 2- [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 
 3- [numpy](https://numpy.org/install/)
-
-4- [rdkit](https://www.rdkit.org/docs/Install.html)
-
 
 ************************************************************
 
